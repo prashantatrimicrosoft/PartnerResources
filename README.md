@@ -6,7 +6,7 @@ nav_exclude: true
 
 The Microsoft Partners Resources repository consists of documents, links, and other assets designed to aid partners in developing practices, upskilling, certifications, and taking their solutions to market.  Currently, this repository houses our Learning Plan Resources, with more sections to be added in the future.
 
-# Contributing
+# Contributing push to remote
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
