@@ -2,7 +2,7 @@
 nav_exclude: true
 ---
 
-# What are Microsoft Partner Resources changed ?
+# What are Microsoft Partner Resources changed feature akv  ?
 
 The Microsoft Partners Resources repository consists of documents, links, and other assets designed to aid partners in developing practices, upskilling, certifications, and taking their solutions to market.  Currently, this repository houses our Learning Plan Resources, with more sections to be added in the future.
 
